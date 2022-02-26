@@ -1,0 +1,554 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great charter of the forest, declaring the liberties of it made at Wesminster, the tenth of February in the ninth year of Henry the Third, anno Dom. 1224, and confirmed in the eight and twentieth of Edward the First, anno Dom. 1299 : with some short observations taken out of the Lord Chief Justice Coke's fourth Institutes of the courts of the forests / written for the benefit of the publick.</title>
+            <title>Charta de foresta</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70139</idno>
+            <idno type="STC">Wing G1677</idno>
+            <idno type="STC">ESTC R1823</idno>
+            <idno type="EEBO-CITATION">08707112</idno>
+            <idno type="OCLC">ocm 08707112</idno>
+            <idno type="VID">41607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41607)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 713:11, 1260:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great charter of the forest, declaring the liberties of it made at Wesminster, the tenth of February in the ninth year of Henry the Third, anno Dom. 1224, and confirmed in the eight and twentieth of Edward the First, anno Dom. 1299 : with some short observations taken out of the Lord Chief Justice Coke's fourth Institutes of the courts of the forests / written for the benefit of the publick.</title>
+                  <title>Charta de foresta</title>
+                  <author>England and Wales.</author>
+                  <author>Coke, Edward, Sir, 1552-1634. Institutes of the laws of England. Part 4. Selections.</author>
+               </titleStmt>
+               <extent>[4], 40 [i.e. 36] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the Assignees of Richard and Edward Atkins , for John Kidgell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: Magna charta de foresta.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Forestry law and legislation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41607:1"/>
+            <pb facs="tcp:41607:1"/>
+            <p>THE GREAT CHARTER OF THE FOREST, DECLARING THE LIBERTIES OF IT.</p>
+            <p>Made at <hi>WESTMINISTER,</hi> the Tenth of <hi>February,</hi> in the Ninth Year of <hi>HENRY</hi> the Third, <hi>Anno. Dom.</hi> 1224. and Confirmed in the Eight and Twentieth of <hi>EDWARD</hi> the Firſt, <hi>Anno Dom.</hi> 1299.</p>
+            <p>WITH Some ſhort Obſervations taken out of the Lord Chief Juſtice <hi>COKE</hi>'s Fourth <hi>Inſtitutes of the Courts of the FORESTS.</hi>
+            </p>
+            <p>
+               <hi>Written for the Benefit of the Publick.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſignees of <hi>Richard</hi> and <hi>Edward Atkins,</hi> Eſquires, for <hi>John Kidgell</hi> at the <hi>Atlas</hi> in <hi>Cornhill,</hi> near the <hi>Royal Exchange,</hi> 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41607:2"/>
+            <pb facs="tcp:41607:2"/>
+            <head>A PREFACE TO THE READER.</head>
+            <p>FInding how well <hi>Magna Charta</hi> hath been re<g ref="char:EOLhyphen"/>ceived amongſt us, as it hath been lately printed with ſome of my Lord <hi>Coke</hi>'s Notes upon it, and conſidering likewiſe that <hi>Charta de Foreſta,</hi> which was made and confirmed at the ſame times with the other, does in effect treat of the ſame Matter, and therefore both are called The <hi>GREAT CHARTERS</hi> of the <hi>LI<g ref="char:EOLhyphen"/>BERTIES</hi> of <hi>England,</hi> I could not but imagine, that upon taking the ſame courſe, and preſenting you with ſome of that Great Man's Comments, and Explanations of the Text, as I could gather them out of his fourth In<g ref="char:EOLhyphen"/>ſtitutes of the Courts of the Foreſts, <hi>&amp; alibi;</hi> I could not, I ſay, but imagine, that this <hi>GREAT CHARTER</hi> of the <hi>FOREST</hi> would meet with an Equal kind En<g ref="char:EOLhyphen"/>tertainment from you.</p>
+            <p>This, together with the Importunity of the <hi>Stationer,</hi> made me ſet about the Work; and I will here ſpeak but a very few things by way of Preface, becauſe I would not long keep you from your fuller ſatisfaction; and thoſe ſhall be excerpted from my Lord <hi>Coke</hi> too. There were many
+<pb facs="tcp:41607:3"/> of the Great Charters, and of This <hi>CHARTA DE FORESTA,</hi> put under the Great Seal, and ſent to Archbiſhops, Biſhops, and other men of the Clergy, to be ſafely kept, whereof one of them remain at this day at <hi>Lam<g ref="char:EOLhyphen"/>beth,</hi> with the Archbiſhop of <hi>Canterbury.</hi>
+            </p>
+            <p>This was a great reach of Policy, to have them well pre<g ref="char:EOLhyphen"/>ſerved; and beſides,</p>
+            <p>The ſame was entred of Record in a Parliament Roll.</p>
+            <p>And afterwards King <hi>Edward</hi> the firſt, by Act of Par<g ref="char:EOLhyphen"/>liament <note place="margin">25 E. 1. c. 1.</note> did ordain, that both theſe <hi>Charters</hi> ſhould be ſent, under the great Seal, as well to the Juſtices of the Foreſt, as to others, and to all Sheriffs, and to all other the Kings Officers, and to all Cities thrô the Realm; and that the ſame <hi>Charters</hi> ſhould be ſent to all the Cathedral Churches, and that they ſhould be read and publiſhed in every County four times in the year, in full County, <hi>viz.</hi> the next County day <note place="margin">28 E. 1. c. 1.</note> after the Feaſt of St. <hi>Michael,</hi> the next County day after <hi>Chriſtmaſs,</hi> and the next County day after <hi>Eaſter,</hi> and the next County day after the Feaſt of St. <hi>John.</hi>
+            </p>
+            <p>This <hi>Charta de Foreſta</hi> and <hi>Magna Charta,</hi> my Lord <hi>Coke</hi> calls, <hi>Two glorious Lights;</hi> and truly ſo, for they were adjudged in Parliament to be taken as the Common <note place="margin">25 E. 1. 1.</note> Law; and the Law is the Light and Guide of Judges; <hi>Lex eſt exercitus Judicum tutiſſimus Ductor, lex eſt Opti<g ref="char:EOLhyphen"/>mus Judicis Zenagogus,</hi> &amp; <hi>lex eſt tutiſſima Caſſis.</hi>
+            </p>
+            <p>And albeit Judgments in the Kings Courts are of high regard in Law, and <hi>Judicia</hi> are <hi>accounted</hi> as <hi>Juris dicta,</hi> yet it is provided by the ſame Act of Parliament, that if any Judgment be given contrary to any of the points of either of the <hi>Charters,</hi> by the Juſtices, or by any other of the Kings Miniſters, <hi>&amp;c.</hi> it ſhall be undone, and holden for nought, becauſe the Judgment is given againſt the Law.</p>
+            <p>And in ſuch high Eſtimation have theſe two <hi>Charters</hi> been, that they have been confirmed, eſtabliſhed, and com<g ref="char:EOLhyphen"/>manded to be put in Execution by two and thirty ſeveral Acts of Parliament.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:41607:3"/>
+            <head>
+               <hi>Magna Charta</hi> DE FORESTA. THE GREAT CHARTER OF FORESTS, &amp;c.</head>
+            <div type="confirmation_by_Edward_I">
+               <opener>
+                  <signed>EDward <hi>by the Grace of God, King of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>Lord of</hi> Ireland, <hi>and Duke of</hi> Guy<g ref="char:EOLhyphen"/>an,</signed>
+                  <salute>to all to whom theſe Preſents ſhall come, ſendeth, Greeting.</salute>
+               </opener>
+               <p>We have ſeen the Charter of the Lord <hi>HENRY</hi> our Father, ſometime King of <hi>England,</hi> concerning the <hi>Foreſt,</hi> in theſe words:</p>
+            </div>
+            <div type="charter_of_Henry_III">
+               <opener>
+                  <signed>
+                     <hi>HEnry,</hi> by the Grace of God, King of <hi>England,</hi> Lord of <hi>Ireland,</hi> Duke of <hi>Nor<g ref="char:EOLhyphen"/>mandy</hi> and <hi>Guyan,</hi> and Earl of <hi>Anjou,</hi>
+                  </signed>
+                  <salute>to all
+<pb n="2" facs="tcp:41607:4"/> Archbiſhops, Biſhops, Abbots, Priors, Earls, Ba<g ref="char:EOLhyphen"/>rons, Sheriffs, Provoſts, Officers, and to all Bai<g ref="char:EOLhyphen"/>liffs, and other our Faithful Subjects, who ſhall ſee this preſent CHARTER, greeting.</salute>
+               </opener>
+               <p>Know ye, That We, unto the Honour of Al<g ref="char:EOLhyphen"/>mighty God, and for the Salvation of the Souls of our Progenitors and Succeſſors Kings of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to the advancement of Holy Church, and amendment of our Realm, of our meer and free will have given and granted to all Archbiſhops, Biſhops, Abbots, Priors, Earls, Barons, and to all Freemen of this our Realm, theſe Liberties following, to be kept in our Kingdom of <hi>England</hi> for ever.</p>
+               <div n="1" type="chapter">
+                  <head>CHAP. I. What Woods ſhall be diſafforreſted.</head>
+                  <p>
+                     <hi>IMprimis,</hi> We will, that all Foreſts, which King <hi>Henry</hi> our Grandfather afforeſted, ſhall be view'd by good and lawfull men; and if he hath afforeſted any other <hi>(a)</hi> Wood, more than his own Demeſne, by which the Owner of the Wood hath dammage, it ſhall be forth<g ref="char:EOLhyphen"/>with diſafforeſted; and if he hath afforeſted
+<pb n="3" facs="tcp:41607:4"/> his own Wood, then it ſhall remain Foreſt: ſaving the <hi>(b)</hi> Common of Herbage, and of other things in the ſame Foreſt, to them who before were accuſtomed to have the ſame. 3. <hi>Bulſtrode.</hi> 213.</p>
+                  <div type="commentary">
+                     <p>
+                        <hi>Ockam</hi> cap. <hi>quid Regis Foreſta,</hi> ſaith, <hi>Foreſta eſt tuta fe<g ref="char:EOLhyphen"/>rarum Manſio, non quarum libet, ſed ſilveſtrium, non quibuſlibet in locis, ſed certis &amp; ad hoc idoneis, unde Foreſta</hi> E. <hi>mutata in</hi> O. <hi>quaſi Fereſta, hoc eſt, ferarum ſtatio.</hi> Co. Litt. Sect. 378. Fol. 233. <hi>a.</hi>
+                     </p>
+                     <p>Foreſts and Chaſes are not incloſed, but a Park muſt be; the Foreſt and Chaſe do differ in Offices and Laws: every Foreſt is a Chaſe, but every Chaſe is not a Foreſt. A Subject may have a Foreſt by ſpecial grant of the King, as the Duke of <hi>Lancaſter,</hi> and Abbot of <hi>Whitby</hi> had. <hi>id. ibid.</hi>
+                     </p>
+                     <p>A Foreſt conſiſteth of Eight things, <hi>viz.</hi> Of Soil, Covert, Laws, Courts, Judges, Officers, Game, and certain Bounds. <hi>Co. Inſt. 4. Part. Fol.</hi> 289.</p>
+                     <p>
+                        <hi>Foreſta eſt nomen collectivum,</hi> and by the grant thereof, the Soil, Game, and a free Chaſe doth paſs. <hi>id. ibid.</hi>
+                     </p>
+                     <p>King <hi>John</hi> the 15 of <hi>June</hi> in the 18 year of his Reign, at <hi>Kummigs-mead,</hi> alias <hi>Kyme-mead,</hi> between <hi>Stanes</hi> and <hi>Wind<g ref="char:EOLhyphen"/>ſor,</hi> granted the like Charter, as <hi>Charta de Foreſta</hi> is. <hi>id. ibid.</hi>
+                     </p>
+                     <p>
+                        <hi>(a)</hi> This is an Act of Reſtitution, for if the King might have made a Foreſt in other Mens Woods, then could not the Owner have fell'd down his own Woods without View and Licenſe, <hi>&amp; ſic ad damnum illius,</hi> &amp;c. <hi>id. Fol.</hi> 300.</p>
+                     <p>
+                        <hi>(b) Note,</hi> all manner of Commons are ſaved.</p>
+                  </div>
+               </div>
+               <div n="2" type="chapter">
+                  <pb n="4" facs="tcp:41607:5"/>
+                  <head>CHAP. II. Who bound to the Summons of the For<g ref="char:EOLhyphen"/>reſt.</head>
+                  <p>MEn that dwell out of the Foreſt, from henceforth ſhall not come before the Juſticers of our Foreſt by common Summons, except they be impleaded there, or be Sure<g ref="char:EOLhyphen"/>ties for ſome others that were Attached for the Foreſt.</p>
+                  <div type="commentary">
+                     <p>This Statute of <hi>Charta de Foreſta</hi> hath been above Thirty times, and laſtly in 4 <hi>Hen.</hi> 5. confirmed, and enacted, and commanded to be put in execution. <hi>Co. Inſt. 4. Part. Fol.</hi> 303.</p>
+                     <p>And it is very obſervable, that if any Act of Parliament hath been made againſt any of the Articles of the Statute of <hi>Carta de Foreſta,</hi> by the Act of Parliament of 42. E. 3. the ſame is made void, and by the Statute of <hi>Confirmationes Car<g ref="char:EOLhyphen"/>tarum</hi> in 25. E. 1. all Judgments given againſt any of the points of <hi>Carta de Foreſta,</hi> ſhall be holden for void.</p>
+                  </div>
+               </div>
+               <div n="3" type="chapter">
+                  <pb n="5" facs="tcp:41607:5"/>
+                  <head>CHAP. III. What Woods made Foreſt, ſhall be diſ<g ref="char:EOLhyphen"/>afforeſted.</head>
+                  <p>ALL Woods that have been made Fo<g ref="char:EOLhyphen"/>reſt by King <hi>Richard</hi> our Uncle, or by King <hi>John</hi> our Father, untill our firſt Corona<g ref="char:EOLhyphen"/>tion, ſhall be forthwith diſafforeſted, unleſs it be our Demeſne Wood.</p>
+                  <div type="commentary">
+                     <p>Whereas <hi>Henry 2. Fitz Empreſs</hi> claim'd that he might make Forreſts not only within his own Woods and Grounds, but in the Woods and Grounds of his Subjects, and there<g ref="char:EOLhyphen"/>upon made divers ſuch Forreſts within his own and other mens Woods and Grounds: Whereupon ſome Readers, and others that have followed them, are of opinion that <hi>Henry</hi> 2. might <hi>de Jure</hi> do that which he did: This Act of <hi>Charta de Foreſta,</hi> which is but a declaratory Law reſtoring the Subject to his former right, is directly againſt that conceipt, as you may ſee before in the firſt Chapter of it; and to the ſame effect is this third Chapter. Neither could <hi>Henry</hi> 2. or any other King have made, or rais'd a free Chaſe, Park, or Warren for himſelf in any of the grounds of the Sub<g ref="char:EOLhyphen"/>jects; for it is truly ſaid in <hi>Plowdens</hi> Commentaries, Lord <hi>Berkely</hi>'s caſe, <hi>fol.</hi> 236. that the <hi>Common Law hath ſo admea<g ref="char:EOLhyphen"/>ſured</hi> 
+                        <note place="margin">Note.</note> 
+                        <hi>the Kings Prerogatives, that they ſhould not take away, nor prejudice the Inheritance of any.</hi> But we agree, that all the Lands of the Subject are originally derived from the Crown: And therefore when the Ancient Kings had the
+<pb n="6" facs="tcp:41607:6"/> moſt part in their own hands, or at leaſt great Deſarts, Waſte and Woody grounds, for want of habitation, they might make what Foreſts it pleaſed them therein, which may be a Reaſon and cauſe of a lawfull beginning; and therefore a Foreſt may be by Preſcription good in Law over other mens grounds. But the King in his own grounds may make a Foreſt at this day, which is proved by theſe two Chapters, for ſuch Foreſts are thereby ſaved and Enacted to ſtand. <hi>Co. 4. Part. Inſtit.</hi> fol. 300, 301. <hi>Deſertum, id quod ab hominibus deſeritur, &amp; feris relinquitur.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="4" type="chapter">
+                  <head>CHAP. IV. No Purpreſture, Waſte, or Aſſart to be made in Foreſts.</head>
+                  <p>ALL Archbiſhops, Biſhops, Abbots, Pri<g ref="char:EOLhyphen"/>ors, Earls, Barons, Knights, and other our Freeholders, who have their Woods in Foreſts, ſhall have their Woods as they had them at the firſt (‖) Coronation of <hi>Henry</hi> our Grandfather, ſo that they ſhall be quit for ever of all <hi>(a)</hi> Purpreſtures, <hi>(b)</hi> Waſtes, and <hi>(c)</hi> Aſſerts, made in thoſe Woods, after that time untill the beginning of the ſecond year of our Coronation: And thoſe who from henceforth do make Purpreſture without our Licence, or Waſte, or Aſſert in the ſame, ſhall anſwer unto us for the ſame Waſtes, Pur<g ref="char:EOLhyphen"/>preſtures, and Aſſerts.</p>
+                  <div type="commentary">
+                     <pb n="7" facs="tcp:41607:6"/>
+                     <p>
+                        <hi>(a) Purpreſture</hi> cometh of the French word <hi>purpriſe,</hi> or <hi>pourpris,</hi> which ſignifieth an Incloſure or building, and in legal underſtanding ſignifieth an encroachment on the King, either upon part of the Kings demeſne Lands of his Crown, which are accounted in Law as <hi>re's publicae, &amp; ſemper favorabile fuit in Omni Republica Principis patrimonium;</hi> or in the High wayes, or in Common Rivers, or in the Common ſtreets of a City, or generally when any Common Nuſans is done to the King and his people, endeavouring to make that private, which ought to be publick, which <hi>Glanvil,</hi> lib. 9. cap. 11. very aptly de<g ref="char:EOLhyphen"/>ſcribeth in theſe words; <hi>Dicitur autem purpreſtura, vel porpre<g ref="char:EOLhyphen"/>ſtura popriè quando aliquid ſuper Dominum Regem injuſtè occupa<g ref="char:EOLhyphen"/>tur, ut in Dominicis Regis, vel in viis publicis obſtruct', vel in aquis publicis tranſverſis à recto curſu, vel quando aliquis in Civitate ſuper regiam plateam aliquid aedificando occupaverit, &amp; generaliter quoties aliquid fit ad nocumentum Regii tenementi, vel Regiae viae, vel Civitatis.</hi> Co. 2. Inſtit. <hi>fol.</hi> 272.</p>
+                     <p>It was an Article of the Eyre before the <hi>Statute de Bigamis,</hi> in 4. <hi>Ed.</hi> 1. to enquire <hi>de purpreſturis factis ſuper Dominum Regem, ſive in Terra, ſive in Mari, ſive in aqua dulci, ſive infra libertatem, ſive extra.</hi> Cap. itineris. id. ibid.</p>
+                     <p>It appeareth alſo by <hi>Glanvil,</hi> that there be likewiſe Pur<g ref="char:EOLhyphen"/>preſtures done to Subjects. <hi>id. ibid.</hi>
+                     </p>
+                     <p>
+                        <hi>(b)</hi> Waſte, <hi>Vaſtum dicitur à vaſtando,</hi> of waſting and depo<g ref="char:EOLhyphen"/>pulating; and for that waſte is often alledged to be Timber, which we call in Latine <hi>Maremium,</hi> or <hi>Mareſnium,</hi> or <hi>Ma<g ref="char:EOLhyphen"/>reſmium;</hi> it is good to fetch both of them, ſaith my Lord <hi>Coke,</hi> from the Original. Firſt, Timber is a <hi>Saxon</hi> word: Se<g ref="char:EOLhyphen"/>condly, <hi>Maremium</hi> is derived of the French word <hi>Marreim,</hi> or <hi>Marrein,</hi> which properly ſignifieth Timber. <hi>Co. 1. Inſtit. fol. 52. b.</hi> 53.</p>
+                     <p>
+                        <hi>(c)</hi> Aſſert, is ſo called of the effect (as ſome hold) and is derived (ſay they) of <hi>ad</hi> and <hi>ſero, aſſero,</hi> becauſe of Wood grounds, Mariſhes or waſte grounds, they are converted to be ſown with Corn, and therefore in the Regiſter, and <hi>F. N. B.</hi> it is written <hi>aſſertare,</hi> with an E. and ſo it is in this Chapter here in the Latin. <hi>Bracton</hi> 
+                        <note n="†" place="margin">Lib. 4. fol. 226.</note> hereof ſaith, <hi>Illud quod fuit ali<g ref="char:EOLhyphen"/>quando boſcus, &amp; locus vaſtae ſolitudinis &amp; communia &amp; jam inde efficitur Aſſartum, vel redactum eſt in Culturam.</hi> And here<g ref="char:EOLhyphen"/>with
+<pb n="8" facs="tcp:41607:7"/> agreeth <hi>Fleta,</hi> lib. 4. c. 22. lib. 2. cap. 25. <hi>illud olim fu<g ref="char:EOLhyphen"/>it Foreſta, et boſcus, &amp;c. et jam efficitur Aſſartum, &amp; reductum eſt in Culturam, et idem dici poterit de Mariſcis et aliis vaſtita<g ref="char:EOLhyphen"/>tibus in culturam redactis.</hi> Others fetch it otherwiſe, but we hold, that it is derived of the French word <hi>eſſarter,</hi> to grub up, or clear a ground of wood, <hi>&amp;c.</hi> and this appeareth by <hi>Domeſ<g ref="char:EOLhyphen"/>day. Hereford-ſhire. Merchela in eodem manerio ſunt 58. acrae, terrae provect. de ſilva,</hi> written over the ſame <hi>eſſars: de eſ<g ref="char:EOLhyphen"/>ſart ſilvae exeunt</hi> 17. <hi>s.</hi> and 4. <hi>d.</hi> E. being turned into A. <hi>Co. Inſtit. 4. part. fol.</hi> 306, 307.</p>
+                     <p>(‖) Where it it is ſaid <hi>(tempore Coronationis Regis Henrici Avi,</hi> that is of H. 2.) it is to be known that he was Crowned twice, <hi>viz.</hi> the 20. of <hi>December</hi> in the firſt year; he cauſed his Son <hi>Henry</hi> to be Crowned King the 15. of <hi>June,</hi> in the 16. year of his reign; <hi>Henry</hi> his Son died the 11. of <hi>June</hi> in the 28. year of his reign; after whoſe death King <hi>Henry Fitz-Empreſſe</hi> was Crowned again. <hi>Id. fol.</hi> 293.</p>
+                  </div>
+               </div>
+               <div n="5" type="chapter">
+                  <head>CHAP. V. When Rangers are to make their Range in the Foreſt.</head>
+                  <p>OUr Rangers ſhall go through the Foreſts to make range, as it hath been accuſtom<g ref="char:EOLhyphen"/>ed at the time of the Firſt Coronation of King <hi>Henry</hi> our Grandfather, and not otherwiſe.</p>
+                  <div type="commentary">
+                     <p>The Ranger is a ſworn Officer of the Foreſt, of which ſort there ſeem to be twelve, as you ſhall ſee in the 7. Chapter, but he is not within the Foreſt, having no charge of Vert, but only of Veniſon that cometh out of the Foreſt into his charge, or
+<pb n="9" facs="tcp:41607:7"/> part of the Purlieu, to ſafe conduct them back again. And it is to be noted, that in ſuch Foreſts as have no Purlieus, there is no Ranger, but Foreſters ſerve the turn.</p>
+                     <p>This Ranger is made and appointed by the King, his Letters patents under the great Seal; and for his better encouragement in his duty, he hath a yearly fee of twenty pounds, or thirty pound paid out of the <hi>Exchequer,</hi> and certain fee Dear both red and fallow; his Office conſiſteth chiefly in theſe three points:</p>
+                     <p n="1">1. <hi>Ad perambulandum quotidie per terras de afforeſt at as, ad videndum audiendum &amp; inquirendum, tam de Malefactis, quam de Malefactoribus in Balliva ſua.</hi>
+                     </p>
+                     <p n="2">2. <hi>Ad Refugandum feras Foreſtae tam Veneris quam Chaſeae de terris deafforeſtatis, in terras afforeſt at as: &amp;</hi>
+                     </p>
+                     <p n="3">3. <hi>Ad praeſentandum omnes trangreſſiones Foreſtae in terris de<g ref="char:EOLhyphen"/>afforeſtatis factas, ad proximas Curias illius foreſtae tent as.</hi>
+                     </p>
+                     <p>As for the Oath of the Ranger, it is continually in theſe words. <hi>You ſhall truly execute the Office of a Ranger in the Pur<g ref="char:EOLhyphen"/>lieu of</hi> P. <hi>upon the border of the Kings Foreſt of</hi> P. <hi>You ſhall re<g ref="char:EOLhyphen"/>chaſe with your Hound and drive the Wild Beaſts of the Foreſt, as often as they ſhall range out of the ſame Foreſt into the purlieus; You ſhall truly preſent all unlawfull hunting and hunters of Wild Beaſts of Venary and Chaſe as well within the purlieus</hi> (which proveth that the purlieus are no part of the Foreſt, but diſtiuct things) <hi>as the Foreſt; and thoſe and all other offences you ſhall preſent at the Kings next Court of Attachments, or Swanimote, which ſhall firſt happen: So help You God.</hi> Co. Inſtit. 4 Part. fol. 304.</p>
+                     <p>
+                        <hi>Purlieu</hi> is all that ground near any Foreſt, which being made Foreſt by <hi>Henry</hi> the ſecond, <hi>Richard</hi> the firſt, or King <hi>John,</hi> were by Perambulation granted by <hi>Henry</hi> the third, ſevered again from the ſame. <hi>Manwood,</hi> Part. 2. <hi>of his Foreſt Laws,</hi> cap. 20.</p>
+                     <p>
+                        <hi>Purlieu,</hi> ſaith my Lord <hi>Coke,</hi> containeth ſuch grounds which <hi>Henry</hi> the Second, <hi>Richard</hi> the firſt, or King <hi>John</hi> added to their Ancient Foreſts over other mens grounds, and which were diſafforeſted by force of this Statute, in the firſt and third Chapters, and the Perambulations and Grants thereupon. And is derived from a <hi>French</hi> Adjective, and a <hi>French</hi> Noun, viz. <hi>Pur,</hi> which ſignifieth clear, entire, and exempt, and <hi>lieu,</hi>
+                        <pb n="10" facs="tcp:41607:8"/> that is, a place entire, clear, or exempt from the Foreſt. And both of theſe derived from the Latine Adjective and Noun: <hi>viz. Purus locus,</hi> and in this ſence the Civilians called that <hi>purum locum qui ſepulchrorum Religioni non eſt obſtrictus.</hi> And the perambulation whereby the <hi>Purlieu</hi> is deafforeſted, is called in French <hi>Pourallée.</hi> i. e. <hi>perambulatio:</hi> ſo as the <hi>purlieu</hi> and <hi>pou<g ref="char:EOLhyphen"/>rallée</hi> are two diſtinct things, and 33 <hi>E. 1. Stat. 5. purlieu</hi> is the right name of the place deafforeſted. <hi>Co. Inſtit. 4. Part. fol.</hi> 303.</p>
+                     <p>By this it appeareth that Chaſes that never were any Foreſts cannot have any Purlieu, and conſequently the caſe in 16 <hi>Dyer. 326, b.</hi> 327. is miſtaken, for the Chaſe of <hi>Whaddon</hi> ne<g ref="char:EOLhyphen"/>ver was any Foreſt. Whereby it may be obſerved, how neceſſary the true derivation of words is, according to <hi>Lit<g ref="char:EOLhyphen"/>tleton's</hi> Example. <hi>id. ibid.</hi>
+                     </p>
+                     <p>By this deafforeſtation the owners of the grounds within the Purlieu may at their will and pleaſure fell, cut down, eradicate, and ſtubb up all the Timber, Woods and under<g ref="char:EOLhyphen"/>wood, convert their Paſtures, Meadowes, and other grounds to arable, incloſe them in with any kind of incloſure, build and erect new Edifices upon the ſame or any part thereof, and to diſpoſe and uſe the ſame after the diſafforeſtation, as if they never had been afforeſted. <hi>id. ibid.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="6" type="chapter">
+                  <head>CHAP. VI. Lawing of Dogs in Foreſts.</head>
+                  <p>THe Enquiry or view of <hi>(a)</hi> Lawing of Dogs within our Foreſt, ſhall be made from henceforth, when the Range is made, that is to ſay, from three year to three year, and then it ſhall be done by the view
+<pb n="11" facs="tcp:41607:8"/> and teſtimony of lawful men, and not other<g ref="char:EOLhyphen"/>wiſe. And he whoſe Dog is not lawed, and ſo found, ſhall pay for his amercement three ſhillings. And from henceforth no Ox ſhall be taken for lawing of Dogs. And <hi>(b)</hi> ſuch lawing ſhall be done by the Aſſiſe commonly uſed, that is to ſay, that three claws of the forefoot ſhall be cut off by the skin. But from henceforth ſuch lawing of Dogs ſhall not be, but in places where it hath been accuſtomed from the time of the firſt Coronation of the aforeſaid King <hi>Henry</hi> our Grandfather.</p>
+                  <div type="commentary">
+                     <p>
+                        <hi>(a) Expaaltare Canes.</hi> i. e. <hi>Expeditare Canes.</hi> Expeditating or Lawing of Dogs. <hi>Expeditatio</hi> is derived of <hi>ex</hi> and <hi>pede,</hi> becauſe the Dog is lamed in the foot. <hi>Co. Inſtit. 4. Part. fol.</hi> 308.</p>
+                     <p>
+                        <hi>(b) Canis</hi> in this Chapter is taken for <hi>Maſtivus</hi> by theſe words, <hi>talis Expeditatio fact' per Aſſiſam communiter uſitatam,</hi> which hath reference to the Aſſiſe of the Foreſt, <hi>tempore Henri.</hi> 2. Art. 6. which ſpeaketh only <hi>de expeditatione Ma<g ref="char:EOLhyphen"/>ſtivorum &amp; Aſſiſ. &amp; conſuetud. Foreſtae,</hi> 6 Ed. 1. cap. 9. ſpeaketh only <hi>de Maſtivo. id. ibid.</hi>
+                     </p>
+                     <p>
+                        <hi>Ortelles,</hi> this word is taken from the French word <hi>Orteils des pieds.</hi> i. e. <hi>digiti pedum,</hi> the Toes, or here Claws. <hi>ibid.</hi>
+                     </p>
+                     <p>
+                        <hi>Pellota,</hi> of the French word <hi>Pelote,</hi> and they from <hi>Pila;</hi> in this act it is taken for the Ball of the foot, <hi>ſine Pelota,</hi> without the ball of the foot. And therefore by the expreſs words of this Chapter the ball of the foot of the Maſtive is not to be cut off, but the three claws of the forefoot to the skin. This extendeth only to Maſtiffs, and to no other Dogs; for <hi>
+                           <g ref="char:V">Ʋ</g>bi non eſt Lex ibi non eſt Tranſgreſſio;</hi> and neceſſary it is, that ſuch as dwell in Foreſts where there are Coverts, that they
+<pb n="16" facs="tcp:41607:9"/> ſhould keep other Dogs unexpeditated, and the Maſtiff unex<g ref="char:EOLhyphen"/>peditated for the defence of their houſe, or for giving of warn<g ref="char:EOLhyphen"/>ing of Thieves and Robbers, <hi>&amp;c. ibid.</hi>
+                     </p>
+                     <p>The words of this Chapter are, <hi>De expeditatione Canum exiſtentium in Foreſta;</hi> and therefore in Purlieus or places deafforeſted, a man may keep a Maſtiff without being expe<g ref="char:EOLhyphen"/>ditated. <hi>Ibid.</hi>
+                     </p>
+                     <p>If Grey-hounds be found running <hi>ad Nocumentum,</hi> the Foreſter ought to retain them, and preſent them in the pre<g ref="char:EOLhyphen"/>ſence of the Verderers, and ſend them to the King, or to the chief Juſtice of the Foreſt. <hi>Ibid.</hi>
+                     </p>
+                     <p>The Court of Regard, or Survey of Dogs, as you ſee by this chapter, is holden every every third year, for Expedi<g ref="char:EOLhyphen"/>tation or lawing of Dogs by that Court. <hi>Id. fol. 289.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="7" type="chapter">
+                  <pb n="17" facs="tcp:41607:9"/>
+                  <head>CHAP. VII. Where only Gathering ſhall be in Foreſts.</head>
+                  <p>
+                     <hi>(a)</hi> NO Foreſter or <hi>(b)</hi> Bedle from hence<g ref="char:EOLhyphen"/>forth ſhall make (▵) Scotal, or ga<g ref="char:EOLhyphen"/>ther Garb or Oates, or any Corn, Lamb, or Pig; nor ſhall make any Gathe<g ref="char:EOLhyphen"/>ring, but by the Sight, and upon the Oath of the <hi>Twelve Rangers,</hi> when they ſhall make their Range. So many Foreſters ſhall be aſ<g ref="char:EOLhyphen"/>ſigned to the Keeping of the Foreſts, as rea<g ref="char:EOLhyphen"/>ſonably ſhall ſeem ſufficient for the Keeping of the ſame.</p>
+                  <list>
+                     <item>Stat. 25 Ed. 3. 7.</item>
+                  </list>
+                  <div type="commentary">
+                     <p>In this Statute of 25 <hi>Ed. 3. c. 7.</hi> the words are: <hi>More<g ref="char:EOLhyphen"/>over, It is Accorded and Eſtabliſhed, That no Foreſter, nor Keeper of Foreſt or Chaſe, nor any other Miniſter, ſhall make or gather Suſtenance, nor other Gathering of Victuals, nor other thing, by colour of their Office, againſt any Man's Will, within their Bailywick, nor without; but that which is due of Old Right.</hi>
+                     </p>
+                     <pb n="18" facs="tcp:41607:10"/>
+                     <p>
+                        <hi>(a) Foreſtarius</hi> is taken for a Wood-ward, not only of the <hi>King</hi> within his Foreſt, but <hi>ex vi termini</hi> of any Subject of his Woods whereſoever they lye; as appeareth by a Writ in <hi>Bracton, lib. 4. fol. 316. a. &amp; b. &amp; 231. a. Vid. Co. Inſtit. 4. part, fol. 293.</hi> But in Legal Underſtanding, he is taken for a ſworn Officer Miniſterial of the <hi>King</hi>'s Foreſt; and his Duty appeareth by his Oath, which conſiſteth of Five Parts.</p>
+                     <p n="1">1. That he ſhall be Loyal and True to the Maſter of the Foreſt.</p>
+                     <p n="2">2. That he ſhall truly walk and keep the Office of the Fore<g ref="char:EOLhyphen"/>ſterſhip, and true Watch make both Early and Late, both of <hi>Vert</hi> and <hi>Veniſon.</hi>
+                     </p>
+                     <p n="3">3. Truly attack, and true Preſentment make of all manner of Treſpaſſes done within this Foreſt, to his Knowledge; and eſpecially, within the keeping of his Baylwick.</p>
+                     <p n="4">4. The <hi>King</hi>'s Councel, his Fellows, and his own, he ſhall truly keep. And,</p>
+                     <p n="5">5. No Concealment make for no Favour, Meed, or Dread; but well and truly to behave himſelf therein. <hi>Co. ibid.</hi>
+                     </p>
+                     <p>Officers of the Foreſt ſhall not be ſworn on Enqueſts out of the Foreſt. <hi>Ordinat. Foreſtae, 34 E. 1. cap. 5. ibid.</hi>
+                     </p>
+                     <p>
+                        <hi>(b) Bedellus,</hi> is an Officer of the Foreſt, that doth warn all the Courts of the Foreſt, and doth Execute the Proceſs of the Foreſt, and make all Proclamations as well <hi>within</hi> the Courts, as <hi>without;</hi> and is derived from the <hi>Saxon</hi> Word <hi>Bydder,</hi> to Call or Warn, or of the <hi>French</hi> VVord in <hi>Nor<g ref="char:EOLhyphen"/>mandy, Bedeau,</hi> a Bayliff, or Apparitor. <hi>Co. Inſtit. 4 part, fol. 313.</hi>
+                     </p>
+                     <p>How many ſorts of Officers, and what Number do belong to a Foreſt; you may be ſatisfied in, by my Lord <hi>Coke</hi>'s Re<g ref="char:EOLhyphen"/>cital of them, as they are found in the Eire of <hi>Picke<g ref="char:EOLhyphen"/>ring.</hi>
+                     </p>
+                     <p>The Foreſters, by this Chapter, for keeping of the Foreſts, are to be ſo many, as ſhall reaſonably ſeem ſufficient for the ſame.</p>
+                     <p>The <hi>Verderers</hi> are moſt commonly Four in every of the <hi>King</hi>'s Foreſts.</p>
+                     <pb n="19" facs="tcp:41607:10"/>
+                     <p>They are Judicial Officers of the Foreſt, and choſen in Full-County, by force of the <hi>King</hi>'s Writ.</p>
+                     <p>The Office of a <hi>Verderer</hi> is to obſerve and keep the Aſſi<g ref="char:EOLhyphen"/>zes or Laws of the Foreſt; and to View, Receive, and In<g ref="char:EOLhyphen"/>roll the Attachments and Preſentments of all manner of Treſ<g ref="char:EOLhyphen"/>paſſes of the Foreſt of <hi>Vert</hi> and <hi>Veniſon;</hi> and to do equal Right and Juſtice, as well to Poor as to Rich. All this, and much more you may read in the Oath, which he taketh be<g ref="char:EOLhyphen"/>fore the Sheriff. <hi>Co. Inſtit. 4 par. fol. 292, 293.</hi>
+                     </p>
+                     <p>The Form of it you may ſee in <hi>Manwood</hi>'s Firſt Part of his Foreſts Laws, <hi>pag. 51. You ſhall truly ſerve our Sovereign Lord the</hi> King, <hi>in the Office of a Verderour of the Foreſt of</hi> P. <hi>You ſhall to the utmoſt of your Power and Knowledge, do for the Profit of the</hi> King, <hi>ſo far as it doth appertain unto you to do. You ſhall preſerve and maintain the Antient Rights and Franchiſes of his Crown. You ſhall not conceal from his Majeſty any Rights or Priviledges, nor any Offence either in Vert or Veniſon, or any other thing. You ſhall not with-draw, nor abridge any Defaults; but ſhall endeavour your ſelf to ma<g ref="char:EOLhyphen"/>nifeſt, and to Redreſs the ſame: And if you cannot do that of your ſelf, you ſhall give Knowledge thereof unto the</hi> King, <hi>or unto his Juſtice of the Foreſt. You ſhall deal Indifferently with all the</hi> King's <hi>Leige People. You ſhall Execute the Laws of the Foreſt, and do equal Right and Juſtice, as well unto the Poor, as unto the Rich, in that appertaineth unto your Office. You ſhall not oppreſs any Perſon by colour thereof, for any Reward, Favour, or Malice. All theſe Things you ſhall, to the utter<g ref="char:EOLhyphen"/>moſt of your Power, obſerve and keep.</hi>
+                     </p>
+                     <p>The <hi>Regardatores,</hi> or Rangers, are by this Chapter to be <hi>Twelve</hi> at the leaſt; but by the ſaid Eire of <hi>Pickering,</hi> it appeareth there may be more, for there are there ſet down <hi>Thirteen</hi> by name. <hi>Vid. Co. Inſtit. 4 par. fol. 311.</hi>
+                     </p>
+                     <p>The <hi>Agiſtors,</hi> or <hi>Giſt-takers,</hi> are <hi>Four</hi> in Number within every Foreſt: Their Office you ſhall ſee more of in the <hi>Nineth Chapter.</hi> And,</p>
+                     <p>There are ſeveral others, which you may ſee in <hi>Manwood, par. 2. cap. 1. nu. 4, &amp; 5.</hi> together with their Offices, too long here to be inſerted.</p>
+                     <pb n="20" facs="tcp:41607:11"/>
+                     <p>▵ <hi>Scotales, Scotale,</hi> derived of two <hi>Engliſh</hi> words, <hi>Scot</hi> and <hi>Ale;</hi> as much as to ſay, a Tribute or Contribution of Drinking for the Miniſters of the Foreſt; when they came to the Houſe of any, whereunto others are Contributory within the Perambulation of the Foreſt, which then was called <hi>Po<g ref="char:EOLhyphen"/>tura,</hi> a Drinking. And after, they claimed the ſame for all Victuals for Themſelves, their Servants, Horſes, and Dogs, which was called <hi>Putura:</hi> And this doth notably appear by a Record in 5 <hi>E.</hi> 3. in theſe words:</p>
+                     <p>
+                        <hi>Putura in Chacea de Bowland.</hi> i. <hi>Conſuetudo clamata per Foreſtarios, &amp; aliquando per Ballivos hundredorum, recipere Vi<g ref="char:EOLhyphen"/>ctualin, tam pro ſeipſis, hominibus, equis &amp; canibus de tenen<g ref="char:EOLhyphen"/>tibus &amp; inhabitantibus infra Perambulationem Foreſtae ſeu hun<g ref="char:EOLhyphen"/>dredi quando eò pervenerint, nihil inde ſolvend.</hi> And where<g ref="char:EOLhyphen"/>as it is enacted by the Statute 25 <hi>E. 3. c. 7.</hi> above-men<g ref="char:EOLhyphen"/>tioned, That no Foreſter, or Keeper of Foreſt or Chaſe, <hi>&amp;c.</hi> ſhall make or gather Suſtenance, <hi>&amp;c.</hi> againſt any Man's Will, <hi>&amp;c.</hi> but that which is due of Old Right; that is, thoſe Fees which time out of mind, they ought to have within that Foreſt, and as ſhall appear to be due by the Oaths of Twelve Regarders, or Rangers. <hi>Co. Inſtit. 4 par. fol. 307.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="8" type="chapter">
+                  <pb n="21" facs="tcp:41607:11"/>
+                  <head>CHAP. VIII. When Swanimotes are to be kept, and who to Repair to them.</head>
+                  <p>NO Swanimote from hence-forth ſhall be kept within this our Realm, but thrice in the Year; <hi>viz.</hi> in the Beginning of Fifteen Dayes afore <hi>Michaelmaſs,</hi> when that our Geſt-takers, or Walkers of our Woods come toge<g ref="char:EOLhyphen"/>ther, to take Agiſtment in our Demeſne Woods; and about the Feaſt of Saint <hi>Martin,</hi> in the Winter, when that out Geſt-takers ſhall receive our Pawnage. And to theſe two Swa<g ref="char:EOLhyphen"/>nimotes, ſhall come together our Foreſters, Verderors, Geſt-takers, and none other by Di<g ref="char:EOLhyphen"/>ſtreſs. And the Third Swanimote ſhall be kept in the Beginning of Fifteen Dayes before the Feaſt of Saint <hi>John Baptiſt,</hi> when that our Geſt-takers do meet to Hunt our <hi>Deer.</hi> And at this Swanimote ſhall meet our Foreſters, Verderors, and none other by Diſtreſs. More<g ref="char:EOLhyphen"/>over, every Forty Dayes through the Year,
+<pb n="22" facs="tcp:41607:12"/> our Foreſters and Verderers ſhall meet, to ſee the Attachments of the Foreſt, as well for (▵) Greenhue, as for Hunting, by the Pre<g ref="char:EOLhyphen"/>ſentment of the ſame Foreſters, and before them Attached. And the ſaid Swanimotes ſhall not be kept, but within the Counties wherein they have uſed to be kept.</p>
+                  <div type="commentary">
+                     <head>Within every Foreſt there are theſe Courts.</head>
+                     <p n="1">1 C. <hi>Firſt,</hi> The <hi>Court of the Attachments,</hi> or the <hi>Wood-mote Court:</hi> This is to be kept before the Verderers every For<g ref="char:EOLhyphen"/>ty Dayes throughout the Year; and thereupon is called <hi>The Forty-day Court.</hi> At this Court, the Foreſters bring in the Attachments <hi>de Viridi &amp; Venatione,</hi> and the Preſentment thereof; and the Verderers do receive the ſame, and in<g ref="char:EOLhyphen"/>roll them: But this Court can only Enquire, and not Con<g ref="char:EOLhyphen"/>vict. But it is to be obſerved, that no Man ought to be at<g ref="char:EOLhyphen"/>tached by his Body, for Vert or Veniſon, unleſs he be ta<g ref="char:EOLhyphen"/>ken with the Manner within the Foreſt; otherwiſe the At<g ref="char:EOLhyphen"/>tachment muſt be by his Goods.</p>
+                     <p n="2">2 C. <hi>Secondly,</hi> The <hi>Court of Regard,</hi> or <hi>Survey of Dogs</hi> to be Holden every Third Year for Expeditation, as before has been ſaid.</p>
+                     <p n="3">3 C. <hi>Thirdly,</hi> The <hi>Court of Swanimote,</hi> which is to be Holden before the Verderors, as Judges, by the Steward of the Swani<g ref="char:EOLhyphen"/>mote, thrice in the Year; and the Foreſters ought to preſent their Attachments at the next <hi>Swanimote-Court;</hi> and the Free-holders within the Foreſt, are to appear at the Swanimote, to make Enqueſts and Juries. And this Court may enquire <hi>de Super onerationae Foreſtariorum, &amp; aliorum Miniſtrorum Fore<g ref="char:EOLhyphen"/>ſtae, &amp; de eorum oppreſſionibus populo noſtro illatis.</hi> And this Court may not only Enquire, but Convict alſo; but not give Judgment.</p>
+                     <p>
+                        <hi>Vid. 1 E. 3. ca. 8. 50 E. 3. Aſſiz. 442. Co. Inſtit. 4 par. f. 289.</hi>
+                     </p>
+                     <pb n="23" facs="tcp:41607:12"/>
+                     <p>
+                        <hi>Swanimote</hi> is derived of <hi>Swein,</hi> that is, <hi>Saxonicè Miniſter;</hi> and <hi>Mote,</hi> or <hi>Gemote,</hi> which is <hi>Curia,</hi> i. e. <hi>Curia Miniſtro<g ref="char:EOLhyphen"/>rum Foreſtae;</hi> ſo called, becauſe it is but a Preparative for the Juſtice-Seat, <hi>a. Ordinat. Foreſtae, 34 Ed. 1. cap. 4. id. ibid.</hi>
+                     </p>
+                     <p>For the Juriſdiction of this Court, there is a Notable Caſe in 45 <hi>E.</hi> 3. in a Writ of Treſpaſs of Falſe Impriſon<g ref="char:EOLhyphen"/>ment, brought againſt <hi>J. de W.</hi> the <hi>Defendant</hi> ſaid he, is Foreſter in fee of the Foreſt, and that a certain Swanimote it was preſented by the Foreſters, Verderers, Regarders, and Agiſtors, that the <hi>Plaintiff</hi> had chaſed and taken Deer with<g ref="char:EOLhyphen"/>in the Foreſt: Whereupon the <hi>Defendant</hi> being Foreſter in Fee, came to the <hi>Plaintiff,</hi> and pray'd him to find Pledges to anſwer the ſame before the Juſtice in Eyre, in this Coun<g ref="char:EOLhyphen"/>try, (that is, at the Juſtice-Seat): and that to do the <hi>Plain<g ref="char:EOLhyphen"/>tiff</hi> refuſed; by force whereof he retain'd him, until he had performed the Statute in that Caſe provided; and juſtifyed the Impriſonment. The <hi>Plaintiff</hi> replyed, <hi>De ſon tort De<g ref="char:EOLhyphen"/>meſne ſans tiel cauſe;</hi> and the Iſſue was received by the Court. And it was ſaid, <hi>That before the Justice in Eire he ſhould have no Averment againſt the Preſentment of the Fore<g ref="char:EOLhyphen"/>ſters.</hi> Id. f. 290.</p>
+                     <p>Hence are Six Concluſions obſervable.</p>
+                     <p n="1">1. <hi>Firſt,</hi> That the Law of the Foreſt is allow'd and bound<g ref="char:EOLhyphen"/>ed by the Common-Laws of this Realm.</p>
+                     <p n="2">2. <hi>Secondly,</hi> That though the Verderers be Judges of the Swanimote, and the Steward but a Mininſter; yet the Pre<g ref="char:EOLhyphen"/>ſentment in that Court, is as well by them as Verderors, as by Foreſters, or Keepers, Regarders, and Agiſtors, by the Law of the Foreſt.</p>
+                     <p n="3">3. <hi>Thirdly,</hi> That a Foreſter or Keeper may Arreſt any Man, that Kills or Chaſeth any Deer within the Foreſt, when he is taken with the Manner within the Foreſt; or if the Of<g ref="char:EOLhyphen"/>fendor be Indicted.</p>
+                     <p>If a Man be ſo Impriſoned, and after offer ſufficient Pled<g ref="char:EOLhyphen"/>ges, and they are not taken; ſeeing Juſtice-Seats for Fo<g ref="char:EOLhyphen"/>reſts are very ſeldom Holden, this is his Remedy<g ref="char:punc">▪</g>
+                     </p>
+                     <p>In the Term-time, he may have <hi>Ex merito Juſtitiae,</hi> a <hi>Ha<g ref="char:EOLhyphen"/>beas</hi>
+                        <pb n="24" facs="tcp:41607:13"/> 
+                        <hi>Corpus</hi> out of the <hi>King</hi>'s-<hi>Bench;</hi> or, if he have Privi<g ref="char:EOLhyphen"/>ledge, out of the Court of <hi>Common-Pleas,</hi> or of the <hi>Ex<g ref="char:EOLhyphen"/>checquer,</hi> or out of the <hi>Chancery,</hi> without any Priviledge in Term, or out of Term in time of Vocation; and upon the Return of the Writ, may be Bailed to appear at the next Eire to be Holden for the Foreſt, <hi>&amp;c.</hi> and alſo, may be Bail<g ref="char:EOLhyphen"/>ed by a Writ <hi>de Homine Replegiando,</hi> directed <hi>Cuſtodi Fo<g ref="char:EOLhyphen"/>reſtae,</hi> if he be Arreſted by the Officers of the Foreſt, for Hunting, <hi>&amp;c.</hi> whereof he ſtands Indicted, or Preſented, ta<g ref="char:EOLhyphen"/>ken with the Manner, he finding Twelve Pledges: But if he be adjudged by the Juſtices in Eire, and Impriſon'd, he can't be Bailed by that Writ.</p>
+                     <p>If he be unjuſtly proceeded againſt, he hath there Remedy by Law.</p>
+                     <p>Note a Difference, between the Writ <hi>de Homine Reple<g ref="char:EOLhyphen"/>giando</hi> directed to the Sheriff; for he cannot by <hi>Stat. Weſt. 1. cap.</hi> 15. Replevy any Man impriſoned for the Foreſt, be<g ref="char:EOLhyphen"/>ing taken with the Manner, or Indicted: But this Statute reaches not to that of <hi>de Homine Replegiando,</hi> directed <hi>Cu<g ref="char:EOLhyphen"/>ſtodi Foreſtae.</hi>
+                     </p>
+                     <p n="4">4. <hi>Fourthly,</hi> That the Offendor may be Retained by him, until he hath found Pledges to appear before the Juſtice in Eire; becauſe (as hath been ſaid) the <hi>Swanimote-Court</hi> hath no Power of Judicature: But if ſufficient Sureties be of<g ref="char:EOLhyphen"/>fered, he ought not to be Impriſoned.</p>
+                     <p n="5">5. <hi>Fifthly,</hi> The Juſtice in Eire at his Seſſions, may, by the Law of the Foreſt, proceed upon the Preſentments or Ver<g ref="char:EOLhyphen"/>dicts in the <hi>Swanimote-Court,</hi> though they are taken in a<g ref="char:EOLhyphen"/>nother <hi>Court.</hi> And,</p>
+                     <p n="6">6. <hi>Laſtly, Note,</hi> The Iſſue joined upon the Plea of the Foreſter, viz. <hi>De injuria ſua propria abſque tali cauſa,</hi> and allowed by the Court, and the Conſequent thereupon.</p>
+                     <p>
+                        <hi>Note alſo,</hi> That if at the Swanimote, the Preſentment of the Foreſters be found true by the Jury concerning <hi>Vert</hi> or <hi>Veniſon,</hi> the Offendor ſtandeth thereof Convict in Law, and cannot Traverſe the ſame: But an Indictment or Preſent<g ref="char:EOLhyphen"/>ment before the Chief-Juſtice of the Foreſt, at a Court of <note place="margin">21 E. 3. 48.</note> the Juſtice-Seat by a Jury, and not found in the Swani<g ref="char:EOLhyphen"/>mote,
+<pb n="25" facs="tcp:41607:13"/> may be Traverſed, 8 <hi>E. 3. Itinere Pickering, 147. a.</hi> becauſe it is not Preſented but by one Jury. <hi>Co. Inſtit. 4 par.</hi> 290, 291.</p>
+                     <p n="4">4 C. There is alſo the <hi>Court</hi> of the <hi>Juſtice-Seat,</hi> holden before the Chief Juſtice of the Foreſt, aptly called <hi>Juſtice in Eire;</hi> for ſo he is, and hath Authority and Juriſdiction to Hear and Determine concerning <hi>Vert</hi> and <hi>Veniſon,</hi> &amp;c. by force of Letters Patents under the Great Seal; whereof there are Two: One for the Foreſt on this ſide of <hi>Trent,</hi> the Other beyond. <hi>Id.</hi> 291.</p>
+                     <p>The Court of the <hi>Juſtice-Seat</hi> can be kept but every Third Year; and other Juſtices in Eire kept their Courts every Seventh Year. And it muſt be Summoned Forty dayes at leaſt, before the Sitting thereof: And one Writ of Sum<g ref="char:EOLhyphen"/>mons is to be directed to the Sheriff of the County. <hi>Id. Ibid.</hi>
+                     </p>
+                     <p>There is another Writ of Summons directed <hi>Cuſtodi Fo<g ref="char:EOLhyphen"/>reſtae,</hi> &amp;c. And this conſiſts of Two Parts.</p>
+                     <p n="1">1. To ſummon all the Officers of the <hi>Foreſt,</hi> to bring with them all Records, <hi>&amp;c.</hi>
+                     </p>
+                     <p n="2">2. All Perſons who claim any Liberties or Franchiſes with<g ref="char:EOLhyphen"/>in the <hi>Foreſt,</hi> &amp;c. to ſhew how they claim the ſame. <hi>Id. Ibid.</hi>
+                     </p>
+                     <p>More of this ſhall be ſaid in the <hi>Sixteenth Chapter.</hi>
+                     </p>
+                     <p>(▵) <hi>Greenhue</hi> is <hi>Vert;</hi> and ſignifieth in the Laws of the Foreſt, <hi>Every thing that doth Grow, and bear Green Leaf, with<g ref="char:EOLhyphen"/>in the Foreſt, that may cover and hide a Deer.</hi> Manwood 2 par. <hi>Foreſt-Laws,</hi> fol. 6. a. <hi>&amp;</hi> fol. 33. b.</p>
+                     <p>
+                        <hi>Vert</hi> is divided into General and Special; <hi>Vert</hi> General is, as above Defined; special, is every Tree and Buſh within the Foreſt, to Feed the <hi>Deer</hi> withal; as <hi>Pear-Trees, Crab-Trees, Hauthorns, Black Buſh,</hi> and the like. And the reaſon of this Name is, becauſe the Offence of deſtroying ſuch <hi>Vert,</hi> is <hi>more highly puniſhed than any other, according to the Quantity thereof.</hi> See more <hi>C.</hi> 16.</p>
+                     <p>
+                        <hi>Menſis Vetitus,</hi> Fence-Month, or Defence-Month; ſo cal<g ref="char:EOLhyphen"/>led; becauſe it is the Fawning-Month, when the <hi>Does</hi> have Fawnes; for the Preſervation whereof, they ought to be
+<pb n="26" facs="tcp:41607:14"/> Fenced, and Defended from Hurt and Diſquiet. It con<g ref="char:EOLhyphen"/>tains a Kalendar-Month of One and Thirty Dayes, and be<g ref="char:EOLhyphen"/>gins the Fifteenth Day before <hi>Mid-Summer;</hi> in the begin<g ref="char:EOLhyphen"/>ning whereof, a <hi>Swanimote</hi> is to be holden, and endeth Fifteen Dayes after: as you may ſee by this <hi>Chapter.</hi> The Third <hi>Swanimote</hi> to be kept in the beginning of Fifteen Dayes <hi>ante Feſtum Sancti</hi> Johannis Baptiſtae, <hi>quando Agiſtatores no<g ref="char:EOLhyphen"/>ſtri conveniunt pro * Faonatione ſeu Feonatione beſtiarum Noſtra<g ref="char:EOLhyphen"/>rum.</hi> Co. Inſtit. 4 par. fol 313.</p>
+                     <p>In the Printed Book it is <hi>Venatione,</hi> which ought to be a<g ref="char:EOLhyphen"/>mended, and made <hi>Faonatione,</hi> or <hi>Feonatione;</hi> which ſigni<g ref="char:EOLhyphen"/>fieth the <hi>Fawning.</hi>
+                     </p>
+                     <p>This word <hi>Faonatio,</hi> or <hi>Feonatio,</hi> is derived of the <hi>French</hi> word <hi>Faonier,</hi> i. e. to Fawn, or for <hi>Does</hi> to bring forth. <hi>Id. ibid.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="9" type="chapter">
+                  <head>CHAP. IX. Who to take Agiſtment and Pawnage in Forests.</head>
+                  <p>EVery Free-Man may Agiſt his own Wood within Our Foreſt, at his Pleaſure, and ſhall take his (□) Pawnage. Alſo, We do grant, That every Free-Man may drive his Swine freely, without Impediment, through our Demeſne Woods, to Agiſt them in their own Woods, or where elſe they will. And if the Swine
+<pb n="27" facs="tcp:41607:14"/> of any Free-Man lie one Night within our Foreſt, there ſhall be no Occaſion taken thereof, whereby he may loſe any thing of his own.</p>
+                  <div type="commentary">
+                     <p>
+                        <hi>Agiſtator,</hi> ſo called, becauſe he taketh Beaſts to Agiſt<g ref="char:EOLhyphen"/>ment; that is, to Depaſture within the <hi>Foreſt,</hi> or to Feed upon the Pawnage; and cometh of the <hi>French</hi> Word <hi>(Gey<g ref="char:EOLhyphen"/>ſer,) i. e.</hi> to Lie; becauſe the Beaſts that Feed there, are there Levant and Couchant, Lying and Riſing. <hi>Co. Inſtit. 4 par. fol.</hi> 293.</p>
+                     <p>
+                        <hi>Agiſtment</hi> is properly the Common of Herbage, of any kind of Ground, or Land, or Woods, or the Money due for the ſame. Mr. <hi>Manwood, par. prior.</hi> of his <hi>Foreſt-Laws.</hi>
+                     </p>
+                     <p>This Officer is Conſtituted by the <hi>King</hi>'s Letters Patents: And of theſe, in ſuch <hi>Foreſts</hi> where there is any Pawnage, there be <hi>Four</hi> in Number. <hi>Co. ibid.</hi>
+                     </p>
+                     <p>There Office conſiſteth in theſe <hi>Four</hi> Points: 1. <hi>In Agi<g ref="char:EOLhyphen"/>ſtando. 2. Recipiendo. 3. Imbreviando. 4. Et Certifican<g ref="char:EOLhyphen"/>do.</hi> ibid.</p>
+                     <p>(□) <hi>Pawnage, (Pannagium, aliàs Paſnagium)</hi> or <hi>Penna<g ref="char:EOLhyphen"/>gium,</hi> as it is Latined in <hi>Pupilla Oculi,</hi> may be thought to come of the <hi>French Panez,</hi> or <hi>Panets;</hi> which is a Root much what like to a Parſnip, but leſs and ranker in Taſte; which Hogs do there Feed upon, though it be Eaten by Men alſo. It ſignifieth in our Common-Law, the Money taken by the Agiſtors, for the Feed of Hogs with the Maſt of the <hi>King</hi>'s Foreſt. <hi>Cromp. Juriſd.</hi> fol. 155.</p>
+                     <p>Mr. <hi>Manwood, par. prior.</hi> of his <hi>Foreſt-Laws,</hi> ſaith, <hi>Paw<g ref="char:EOLhyphen"/>nage is moſt properly the Maſt of the Woods, or Lands, or Hedge-Rowes, or the Money due to the Owners of the ſame for it.</hi>
+                     </p>
+                     <p>Mr. <hi>Skene de Verbor. Signif.</hi> calleth it <hi>Pannagium;</hi> and
+<pb n="28" facs="tcp:41607:15"/> defineth it to be the Duty given to the <hi>King,</hi> for the Paſtu<g ref="char:EOLhyphen"/>rage of Swine in the <hi>Foreſt.</hi>
+                     </p>
+                     <p>
+                        <hi>Quietum eſſe de Pannagio,</hi> i. e. to be quit to pay any thing for <hi>Pawnage.</hi> Vid. <hi>F. N. B.</hi> p. 230.</p>
+                  </div>
+               </div>
+               <div n="10" type="chapter">
+                  <head>CHAP. X. The Puniſhment for Killing the <hi>King's</hi> Deer.</head>
+                  <p>NO Man from henceforth ſhall loſe either Life, or Member, for Killing of Our <hi>Deer:</hi> But if any Man be (<g ref="char:circdot">⊙</g>) Taken, and Convict for Taking of Our <hi>Veniſon,</hi> he ſhall make a Grievous Fine, if he have any thing whereof. And if he have nothing to loſe, he ſhall be Impriſoned a Year, and a Day: And after the Year and the Day is expired, if he can find ſufficient Sureties, he ſhall be Delivered; and if not, he ſhall Abjure the Realm of <hi>England.</hi>
+                  </p>
+                  <list>
+                     <item>Stat. 1. Ed. 3. 8. Seſſ. 1.</item>
+                     <item>Stat. 1. H. 7. 7.</item>
+                     <item>Regiſter, fol. 80.</item>
+                  </list>
+                  <div type="commentary">
+                     <p>In this, and in other Chapters of this Statute, <hi>Venatio</hi> ſig<g ref="char:EOLhyphen"/>nifieth <hi>Veniſon,</hi> as in the <hi>Eighth</hi> and <hi>Sixteenth.</hi> It is cal<g ref="char:EOLhyphen"/>led
+<pb n="29" facs="tcp:41607:15"/> 
+                        <hi>Veniſon</hi> of the Mean, whereby the Beaſts are taken, <hi>Quoniam ex Venatione Capiuntur;</hi> and being Hunted, are moſt Wholeſome. They are called, <hi>Beaſts of Venary,</hi> (not <hi>Venery,</hi> as ſome term it) becauſe they are gotten by Hunting.</p>
+                     <p>
+                        <hi>Ordinatio Foreſtae,</hi> cap. 15. <hi>Co. Inſtit.</hi> 4 par. fol. 316.</p>
+                     <p>There be many Beaſts of the <hi>Foreſt,</hi> by the Laws of the <hi>Foreſts</hi> of <hi>England.</hi>
+                     </p>
+                     <p>The <hi>Hare</hi> in <hi>Summer,</hi> the <hi>Hinde</hi> in <hi>Winter;</hi> and all that proceed as of them: The <hi>Buck</hi> in <hi>Summer,</hi> the <hi>Doe</hi> in <hi>Win<g ref="char:EOLhyphen"/>ter,</hi> and the Proceed of them: The <hi>Hare,</hi> Male and Female, and their Proceed: The <hi>Wild-Boar,</hi> Male and Female, and their Proceed: And the <hi>Wolf,</hi> Male and Female, and their Proceed: The <hi>Martin,</hi> Male and Female. The <hi>Roe</hi> is no Beaſt of the <hi>Foreſt,</hi> but it is a Beaſt of <hi>Chaſe;</hi> and ſo it was reſolved by the Juſtices, and the <hi>King</hi>'s Councel, That <hi>Capreoli non ſunt Beſtiae de Foreſta:</hi> And this was the Rea<g ref="char:EOLhyphen"/>ſon of it, <hi>eò quod fugant alias feras.</hi> Hill. 13. <hi>E. 3. coram Rege in Theſaur. Co. Litt.</hi> Sect. 378. fol. 233. <hi>a.</hi>
+                     </p>
+                     <p>The Proceeds of the <hi>Hart</hi> and <hi>Hinde:</hi> The Male, the Firſt Year a <hi>Calf,</hi> the Second a <hi>Brocket,</hi> the Third a <hi>Spay<g ref="char:EOLhyphen"/>ad,</hi> the Fourth a <hi>Staggard,</hi> the Fifth a <hi>Stagg,</hi> the Sixth a <hi>Hart;</hi> and ſo after. The Female, the Firſt Year a <hi>Calf,</hi> the Second a <hi>Brocket</hi>'s <hi>Siſter,</hi> and the Third Year a <hi>Hinde. Co. Inſtit.</hi> 4 par. fol. 316.</p>
+                     <p>The Proceeds of the <hi>Buck</hi> and <hi>Doe:</hi> The Firſt Year a <hi>Fawn;</hi> the Second Year a <hi>Pricket,</hi> the Third Year a <hi>Sorel,</hi> the Fourth a <hi>Sore,</hi> the Fifth a <hi>Buck</hi> of the Firſt Head, the Sixth a Great <hi>Buck. ibid.</hi>
+                     </p>
+                     <p>The Proceeds of the <hi>Hare:</hi> The Firſt Year a <hi>Leveret,</hi> the Second Year a <hi>Hare,</hi> the Third a <hi>Great Hare.</hi>
+                     </p>
+                     <p>Of a <hi>Wild-Boar:</hi> A <hi>Pigg,</hi> a <hi>Hogg,</hi> a <hi>Hogg-Stea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> a <hi>Boar,</hi> and after a <hi>Sanglier.</hi>
+                     </p>
+                     <p>The Seaſons by the Law of the <hi>Foreſt,</hi> for the Beaſts of the <hi>Foreſt</hi> are theſe:</p>
+                     <p>Of the <hi>Hart,</hi> and the <hi>Buck,</hi> beginneth at the Feaſt of St. <hi>John Baptiſt,</hi> and endeth at Holy Rood-Day.</p>
+                     <pb n="30" facs="tcp:41607:16"/>
+                     <p>Of the <hi>Hinde</hi> and <hi>Doe,</hi> beginneth at <hi>Holy-Rood,</hi> and con<g ref="char:EOLhyphen"/>tinueth till <hi>Candlemaſs.</hi>
+                     </p>
+                     <p>Of the <hi>Fox,</hi> at <hi>Chriſtmaſs,</hi> and continueth till the <hi>Twen<g ref="char:EOLhyphen"/>ty Fifth</hi> of <hi>March.</hi>
+                     </p>
+                     <p>Of the <hi>Hare,</hi> at <hi>Michaelmaſs,</hi> and laſteth till <hi>Mid-Sum<g ref="char:EOLhyphen"/>mer.</hi>
+                     </p>
+                     <p>Of the <hi>Boar,</hi> from <hi>Chriſtmaſs</hi> till <hi>Candlemaſs.</hi> id. ibid.</p>
+                     <p>(<g ref="char:circdot">⊙</g>) <hi>Taken:</hi> Taken with the <hi>Mayneer, à Manu,</hi> is in four kinds; <hi>viz. Dog-draw;</hi> that is, Drawing after a <hi>Deer,</hi> which he hath hurt. <hi>Stable-ſtand; viz.</hi> At his Standing with any Knife, Gun, or Bow, or cloſe with <hi>Grey-Hounds</hi> in his Leaſh, ready to Shoot or Courſe. <hi>Back-bear; (Bracton,</hi> lib. 3. fol. 32.) that is, Carrying away the <hi>Deer,</hi> which he Killed. <hi>Bloody-hand; i. e.</hi> When he hath Shot, or Cour<g ref="char:EOLhyphen"/>ſed, and is imbrued with Blood. <hi>id. fol.</hi> 294.</p>
+                     <p>If the <hi>King,</hi> or other <hi>Lord</hi> do Pardon a Treſpaſs in a <hi>Fo<g ref="char:EOLhyphen"/>reſt,</hi> and the Offendor at a <hi>Juſtice-Seat,</hi> by his Learned Coun<g ref="char:EOLhyphen"/>cel, plead the ſame; in the Proceeding thereupon, we do obſerve Two things: 1. That by the Law of the <hi>Foreſt,</hi> be<g ref="char:EOLhyphen"/>fore any Allowance thereof, the Juſtices charge the Mini<g ref="char:EOLhyphen"/>ſters of the <hi>Foreſt,</hi> to enquire, whether the Delinquent hath done any Treſpaſs in <hi>Vert</hi> or <hi>Veniſon,</hi> after the Date of the Pardon. 2. When the Pardon is allowed, then the Entry is, <hi>Quod invenit manucaptores quod à modo non forisfac'.</hi> i. <hi>non Delinqueret aut peccaret.</hi> But if an Offendor be Con<g ref="char:EOLhyphen"/>victed for Treſpaſs in the <hi>Foreſt,</hi> in Hunting, <hi>&amp;c.</hi> and ad<g ref="char:EOLhyphen"/>judged to be Fined or Impriſoned; which Fine, though it be paid, yet ſhall he find Sureties for his good Abearing, <hi>&amp;c.</hi> in theſe words: <hi>Quod à modo ſe bene geret, &amp; in Fo<g ref="char:EOLhyphen"/>reſta praedicta non forisfac',</hi> i. <hi>non Delinqueret ſeu peccaret. <g ref="char:V">Ʋ</g>nde forisfactura pro delicto.</hi> idem, fol. 313.</p>
+                  </div>
+               </div>
+               <div n="11" type="chapter">
+                  <pb n="31" facs="tcp:41607:16"/>
+                  <head>CHAP. XI. A Nobleman may Kill a <hi>Deer</hi> in a Fo<g ref="char:EOLhyphen"/>rest.</head>
+                  <p>WHatſoever Arch-Biſhop, Biſhop, Earl, or Baron, coming to Us at Our Command<g ref="char:EOLhyphen"/>ment, paſſing by our <hi>Foreſt;</hi> it ſhall be Lawful for him to Take and Kill one or two of our <hi>Deer,</hi> by View of our <hi>Foreſter,</hi> if he be pre<g ref="char:EOLhyphen"/>ſent; or elſe he ſhall cauſe one to blow a Horn for him, that he ſeem not to Steal Our <hi>Deer.</hi> And they ſhall do ſo likewiſe in their Return from Us, as it is aforeſaid.</p>
+                  <div type="commentary">
+                     <p>We find not any Chapter or Article of this <hi>Charta de Fo<g ref="char:EOLhyphen"/>reſta,</hi> doth extend to <hi>Chaſes</hi> or <hi>Parks,</hi> but only this <hi>Eleventh Chapter. Quicun<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> Archiepiſcopus, Epiſcopus, Comes, vel Ba<g ref="char:EOLhyphen"/>ro ad mandatum noſtrum tranſierit per Foreſtam noſtram,</hi> &amp;c. which doth not only extend to the <hi>Foreſts</hi> of the <hi>King,</hi> but to His <hi>Chaſes</hi> and <hi>Parks</hi> alſo: For ſo was the Law before the Making of this Act, which is but in Affirmance of the Common-Law of the <hi>Foreſt,</hi> before this Act. <hi>Co. Inſtit.</hi> 4. par. fol. 308.</p>
+                     <p>
+                        <hi>Firſt,</hi> In reſpect of the Perſons: For, every Lord of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> be he Spiritual or Temporal, had this Privilege be<g ref="char:EOLhyphen"/>ſides thoſe that be named in this <hi>Chapter;</hi> as, ſuch <hi>Abbots</hi> and <hi>Priors,</hi> as were Lords of <hi>Parliaments;</hi> and ſo of
+<pb n="32" facs="tcp:41607:17"/> 
+                        <hi>Dukes, Marqueſſes,</hi> and <hi>Viſcounts,</hi> who were Erected and Created, afterwards being Lords of <hi>Parliament,</hi> have the ſame Privilege alſo. <hi>id. ibid.</hi>
+                     </p>
+                     <p>
+                        <hi>Secondly,</hi> By reaſon of the kind of Commandment; <hi>Ad mandatum noſtrum,</hi> ſaith the Statute; which words have re<g ref="char:EOLhyphen"/>ference to the Writ of <hi>Parliament,</hi> directed to every Lord of <hi>Parliament, Ideo vobis mandamus,</hi> &amp;c. and is a Legal Commandment by Writ directed ſeverally to each and eve<g ref="char:EOLhyphen"/>ry Lord of <hi>Parliament,</hi> to appear at the <hi>King</hi>'s Court of <hi>Parliament,</hi> &amp;c. to treat <hi>De arduis &amp; urgentibus negotiis Regni, Statum &amp; Defenſionem Regni &amp; Eccleſiae</hi> Anglicanae <hi>concernentibus.</hi> And to Recreate themſelves, <hi>Veniendo,</hi> and after <hi>Redeundo,</hi> they may, paſſing by any of the <hi>King</hi>'s <hi>Fo<g ref="char:EOLhyphen"/>reſts, Chaſes,</hi> or <hi>Parks,</hi> Hunt and Kill one or two of the <hi>King</hi>'s <hi>Deer.</hi> The Lords of <hi>Parliament</hi> may do it at other times <hi>ex Gratia,</hi> but by Law, <hi>Eundo &amp; Redeundo,</hi> to and from the <hi>Parliament.</hi>
+                     </p>
+                     <p>
+                        <hi>Thirdly,</hi> Here is implyed, that the Lord of <hi>Parliament</hi> may, in the Abſence of the <hi>Foreſter</hi> or <hi>Keeper,</hi> after the Blowing of the Horn, Kill one or two of the <hi>King</hi>'s Deer; <hi>Propriis ſuis Canibus, aut Arcu ſuo proprio.</hi>
+                     </p>
+                     <p>
+                        <hi>Fourthly,</hi> Here is a ſecret Concluſion of Law, That albeit Spiritual Perſons are Prohibited by the Canon-Law, to Hunt; yet by the Common-Law of the Land, they may for their Recreation, to make them fitter for the Performance of their Duty and Office, uſe the Recreation of <hi>Hunting,</hi> as here it directly appeareth. And in <hi>Aſſiſa Foreſtae, 6 E.</hi> 1. it ap<g ref="char:EOLhyphen"/>peareth, That the <hi>Abbot</hi> of <hi>Peterborow</hi> had a Right of Hun<g ref="char:EOLhyphen"/>ting in the <hi>Foreſt</hi> of <hi>Rockingham.</hi> And this appeareth in o<g ref="char:EOLhyphen"/>ther Statutes, <hi>viz. 13 R. 2. 19 H. 7. 1 Jac.</hi> c. 27. And at this Day, and Time out of mind, the <hi>King</hi> hath had after the Deceaſe of every Arch-Biſhop and Biſhop <hi>(inter alia) Matam ſuam Canum,</hi> &amp;c. his Kennel of <hi>Hounds,</hi> or a Com<g ref="char:EOLhyphen"/>poſition <note place="margin">
+                           <hi>See</hi> 25 H. 8. <hi>cap. 19, &amp;c.</hi>
+                        </note> for the ſame; which, and other things, are in the <hi>Exchecquer</hi> called <hi>Multa.</hi>
+                     </p>
+                     <p>
+                        <hi>Fifthly,</hi> The laſt Concluſion is, That all Canons againſt the Laws or Cuſtoms of the Realm, are void, and of none effect.</p>
+                  </div>
+               </div>
+               <div n="12" type="chapter">
+                  <pb n="33" facs="tcp:41607:17"/>
+                  <head>CHAP. XII. How every Free-Man may uſe his Land in the Forest.</head>
+                  <p>EVery Free-Man from henceforth, without Danger, ſhall make in his own Wood, or in his Land, or in his Water, which he hath within Our Foreſt; Mills, Springs, Pools, Marſh-Pits, Dikes, or Earable Ground, with<g ref="char:EOLhyphen"/>out incloſing that Earable Ground; ſo that it be not to the Annoyance of any of his Neigh<g ref="char:EOLhyphen"/>bours.</p>
+                  <div type="commentary">
+                     <p>The Juriſdiction of the <hi>Foreſt</hi> being Local, the Law of the <hi>Foreſt</hi> hath provided, That the <hi>Foreſt</hi> ſhould be incloſed by Meets and Bounds, which indeed are the Incloſure of the <hi>Foreſts:</hi> For, as <hi>Parks</hi> are Incloſed with Wall, Pale, or Hedges; ſo <hi>Foreſts</hi> and <hi>Chaſes</hi> are Incloſed by Meets and Bounds: And as a <hi>Park</hi> cannot be a <hi>Park,</hi> without ſuch an Incloſure indeed; ſo it can be neither <hi>Foreſt</hi> nor <hi>Chaſe,</hi> with<g ref="char:EOLhyphen"/>out an Incloſure in Law; that is, by Meets and Bounds. <hi>Metae ſunt Clauſurae Foreſtarum &amp; Chacearum.</hi> And where, by the Statute 6 <hi>E. 1. c.</hi> 18. it is provided, <hi>Quod omnes metae Foreſtae ſint integrae Domino Regi;</hi> that is, ſo to be un<g ref="char:EOLhyphen"/>derſtood, <hi>Quoad Juriſdictionem &amp; Imperium, &amp; non quoad</hi>
+                        <pb n="34" facs="tcp:41607:18"/> 
+                        <hi>Dominium:</hi> For if Rivers or High-Wayes be Bounds, (as moſt commonly they be) yet the <hi>King</hi> hath no more In<g ref="char:EOLhyphen"/>tereſt in the Soil, Way, River, or Fiſhing, than of Right he ought; but only for his Juriſdiction of his <hi>Foreſt,</hi> which extendeth over the whole Way, River, <hi>&amp;c.</hi> And where Mills, and other Houſes, Trees, <hi>&amp;c.</hi> of other Men, and ſuch like, be Meets and Bounds of the <hi>Foreſts;</hi> yet there<g ref="char:EOLhyphen"/>by the <hi>King</hi> hath no Intereſt in ſuch Mills, Houſes, or Trees, <hi>&amp;c.</hi> See more of this in <hi>Co. Inſtit.</hi> 4. par. fol. 315. 316.</p>
+                     <p>Here is nothing in this <hi>Chapter</hi> ſo Difficult, as to need Ex<g ref="char:EOLhyphen"/>plaining.</p>
+                  </div>
+               </div>
+               <div n="13" type="chapter">
+                  <head>CHAP. XIII. How every Free-Man may uſe his Land in the Forest.</head>
+                  <p>EVery Free-Man ſhall have within his own Woods, <hi>(a) Ayries</hi> of <hi>Hawkes, Sparrow-Hawkes, Falcons, Eagles,</hi> and <hi>Herons;</hi> and ſhall have alſo the <hi>Honey</hi> that is found within his <hi>Woods.</hi>
+                  </p>
+                  <div type="commentary">
+                     <p>
+                        <hi>(a) Aerie</hi> is in our Language, the proper word in <hi>Hawkes;</hi> 
+                        <note place="margin">8 <hi>E. 3. Itin. Pick. Sir</hi> John de Melſa's <hi>Caſe.</hi>
+                        </note> for That we generally call a <hi>Neſt</hi> in other <hi>Birds;</hi> and ſo uſed here.</p>
+                     <p>The Statute ſpeaketh <hi>De Aëriis Accipitrum, Eſpervorum, Falconum, Aquilarum, &amp; Hieronum;</hi> which is but in Affir<g ref="char:EOLhyphen"/>mance
+<pb n="35" facs="tcp:41607:18"/> of the Common-Law; for it extendeth to <hi>Aëries</hi> of other <hi>Hawkes</hi> than be ſpecially named; as to <hi>Aëries Mer<g ref="char:EOLhyphen"/>leonorum in boſcis ſuis de Leveſham.</hi> Co. Inſtit. 4 par. fol. 310.</p>
+                  </div>
+               </div>
+               <div n="14" type="chapter">
+                  <head>CHAP. XIV. Who to take Chiminage or Toll in a <hi>Foreſt;</hi> for what Cauſe, and how much.</head>
+                  <p>NO <hi>Foreſter</hi> from henceforth, who is not <hi>Foreſter</hi> in Fee, paying to Us Ferm for his Bailywick, ſhall take any Chiminage, or Toll within his Bailywick: But a <hi>Foreſter</hi> in Fee, paying Us Ferm for his Bailywick, ſhall take Chiminage; that is to ſay, for Carriage by Cart, the Half-Year <hi>Two Pence,</hi> and for another Half-Year <hi>Two Pence:</hi> for an <hi>Horſe</hi> that beareth Loads, every Half-Year an <hi>Half-Pen<g ref="char:EOLhyphen"/>ny;</hi> and by another Half-Year, an <hi>Half-Penny.</hi> And but of thoſe only that come as Merchants through his Bailywick by Licenſe, to buy Buſhes, Timber, Bark, Cole; and to ſell it again at their Pleaſure. But for none other
+<pb n="36" facs="tcp:41607:19"/> Carriage by Cart, Chiminage ſhall be ta<g ref="char:EOLhyphen"/>ken. Nor Chiminage ſhall not be taken, but in ſuch Places only where it hath been uſed to be. Thoſe who bear upon their Backs Bruſhment, Bark, or Coal to ſell, though it be their Living, ſhall pay no Chiminage to our <hi>Foreſters,</hi> except they take it within our Demeſne-Woods.</p>
+                  <div type="commentary">
+                     <p>
+                        <hi>Chiminage</hi> (as is here expreſſed) ſignifieth a <hi>Toll</hi> for <hi>Way<g ref="char:EOLhyphen"/>farage</hi> through the <hi>Foreſt. Crompt. Juriſdic.</hi> fol. 189. <hi>Man<g ref="char:EOLhyphen"/>wood,</hi> par. 1 of his <hi>Foreſt-Laws,</hi> fol. 86.</p>
+                     <p>
+                        <hi>Quietum eſſe de Carego, cum aliquae Cartae, ſeu Carectae car<g ref="char:EOLhyphen"/>tatae Tranſeuntes per Foreſtam, &amp; ſimiliter ſummagia ſeu ſo<g ref="char:EOLhyphen"/>magia equorum Conſuet. ſunt ſolvere ſecundum magis vel minus Miniſtris ibidem pro Chemino, ibidem habend. Sum<g ref="char:EOLhyphen"/>magium,</hi> or <hi>Sommagium,</hi> cometh of the <hi>French</hi> word <hi>Sommi<g ref="char:EOLhyphen"/>er,</hi> or <hi>Summier;</hi> which ſignifieth a <hi>Horſe</hi> carrying any Load. <hi>Chimagium,</hi> is derived from the <hi>French</hi> word <hi>Chemin,</hi> a Way; and, as the Lord <hi>Coke</hi> ſayes, is a <hi>Toll</hi> for Wayſaring-Men through a <hi>Foreſt. Co. Inſtit.</hi> 4 par. fol. 306.</p>
+                  </div>
+               </div>
+               <div n="15" type="chapter">
+                  <head>CHAP. XV. Pardon for Out-Laws, of Treſpaſs within the <hi>Foreſt.</hi>
+                  </head>
+                  <p>ALL that be Out-Law'd for the <hi>Foreſt</hi> on<g ref="char:EOLhyphen"/>ly, ſince the time of King <hi>Henry</hi> our
+<pb n="37" facs="tcp:41607:19"/> Grand-Father, until our firſt Coronation, ſhall come to our Peace without Lett, and ſhall find to us Sureties, That from henceforth they ſhall not Treſpaſs unto us, within our <hi>Foreſt.</hi>
+                  </p>
+                  <div type="commentary">
+                     <p>Here you ſee, though the Out-Laws are Pardoned; yet they are obliged <hi>Invenire Manucaptores quod à modo non fo<g ref="char:EOLhyphen"/>risfac',</hi> i. <hi>non Delinquerent aut peccarent.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="16" type="chapter">
+                  <head>CHAP. XVI. How Pleas of the <hi>Foreſt</hi> ſhall be Hol<g ref="char:EOLhyphen"/>den.</head>
+                  <p>NO Conſtable, Caſtellani, or Bailiff, ſhall hold Plea of <hi>Foreſt,</hi> neither for (▵) Greenhue, nor Veniſon, but every <hi>Foreſter</hi> in Fee ſhall make Attachments for Pleas of <hi>Foreſt,</hi> as well for Greenhue, as Veniſon; and ſhall pre<g ref="char:EOLhyphen"/>ſent them to the Verderors of the Provinces. And when they be Inrolled and Incloſed under the Seals of the Verderors; they ſhall be pre<g ref="char:EOLhyphen"/>ſented to our (*) Chief Juſticers of our <hi>Fo<g ref="char:EOLhyphen"/>reſt;</hi> when they ſhall come into thoſe Parts, to hold the Pleas of the <hi>Foreſt,</hi> and before
+<pb n="38" facs="tcp:41607:20"/> them they ſhall be determined. And theſe Liberties of the <hi>Foreſt,</hi> we have granted to all Men; ſaving to Arch-Biſhops, Biſhops, Abbots, Priors, Earls, Barons, Knights, and to other Perſons, as well Spiritual, as Tem<g ref="char:EOLhyphen"/>poral, Templars, Hoſpitallers, their Liber<g ref="char:EOLhyphen"/>ties and free Cuſtomes, as well within the <hi>Foreſt,</hi> as without, and in Warrens, and o<g ref="char:EOLhyphen"/>ther places, which they have had. All theſe Liberties and Cuſtomes, We, <hi>&amp;c.</hi> as it is in the End of <hi>MAGNA CHARTA,</hi> and We do confirm and ratify theſe gifts, <hi>&amp;c.</hi> as you may ſee there too is ſpecified, <hi>&amp;c.</hi>
+                  </p>
+                  <div type="commentary">
+                     <p>▵ <hi>Greenhue, Vert,</hi> is whatſoever beareth green Leaf, but eſpecially of green and thick Coverts: And <hi>Vert</hi> is of di<g ref="char:EOLhyphen"/>vers Kinds, ſome that beareth Fruit, that may ſerve as well for Food of Men as of Beaſts, as Pear-Trees, Cheſ<g ref="char:EOLhyphen"/>nut-Trees, Apple-Trees, Service-Trees, Nut-Trees, Crab-Trees, <hi>&amp;c.</hi> and for the ſhelter and defence of the Game: ſome called <hi>Haut-Bois,</hi> ſerving for Food and Browſe of, and for the Game, and for the defence of them, as Oakes, Beeches, <hi>&amp;c.</hi> ſome <hi>Haut-Bois,</hi> for browſe, and ſhelter, and defence only, as Aſhes, Poplers <hi>&amp;c.</hi> Of <hi>Sub-Bois,</hi> ſome for Browſe and Food of the Game, and for ſhel<g ref="char:EOLhyphen"/>ter, and defence, as <hi>Maples,</hi> &amp;c. ſome for Browſe and defence, as Birch, Sallow, Willow, <hi>&amp;c.</hi> ſome for ſhel<g ref="char:EOLhyphen"/>ter and defence only, as, Alder, Elder, <hi>&amp;c.</hi> Of Buſhes and other Vegetables, Some for Food and Shelter, as the Haw-Thorn. Black-Thorn, <hi>&amp;c.</hi> Some for hiding and ſhel<g ref="char:EOLhyphen"/>ter as Brakes, Gorſs, Heath, <hi>&amp;c.</hi> To Sum up all, <hi>Plan<g ref="char:EOLhyphen"/>tarum tria ſunt genera: Arbores, Arboreſcentes, &amp; Herbae,</hi>
+                        <pb n="39" facs="tcp:41607:20"/> 
+                        <hi>Arbores,</hi> as <hi>Haut-Bois,</hi> and <hi>Sub-Bois. Arboreſcentes,</hi> as Buſh<g ref="char:EOLhyphen"/>es, Brakes, <hi>&amp;c. Herbae,</hi> as Herbs and Weeds, which, al<g ref="char:EOLhyphen"/>beit they be Green, yet our legal <hi>Viridis,</hi> Greenhue, ex<g ref="char:EOLhyphen"/>tendeth not to them. <hi>Co. Inſtit. 4. par. fol.</hi> 317.</p>
+                     <p>(*) The Court of the Juſtice-Seat hath Juriſdiction to inquire, hear, and determine two things: 1. All Treſpaſ<g ref="char:EOLhyphen"/>ſes within the <hi>Foreſt,</hi> according to the Laws of the <hi>Fo<g ref="char:EOLhyphen"/>reſts.</hi> 2. All the Claims of Franchiſes Privileges, and Li<g ref="char:EOLhyphen"/>berties within the <hi>Foreſt;</hi> as, to have Parks, Warrens, Vi<g ref="char:EOLhyphen"/>varies, to be quit of Aſſarts and Purpreſtures, to cut down <note place="margin">21. H. 7. 30.</note> his own Woods, without View of the Foreſter, <hi>&amp;c.</hi> like-wiſe Claims of Leets, Hundreds, Felons Goods, Waifs, Strayes, Fugitives, and to kill Hares and other Beaſts of Chaſe within the <hi>Foreſt;</hi> or to have a Wood <hi>Infra Me<g ref="char:EOLhyphen"/>tas Foreſtae, &amp; extra Regardum Foreſtae,</hi> that is, to be out of Juriſdiction of the <hi>Foreſt,</hi> and other Franchiſes, Privi<g ref="char:EOLhyphen"/>leges, Liberties, Immunities, Freedomes, <hi>&amp;c.</hi> within the <hi>Foreſt;</hi> whereof excellent Matter is to be Read in the Eire of <hi>Pickering,</hi> in 8. <hi>E. 3. Rot.</hi> 3. 1. <hi>Co. 4. Inſt. fol.</hi> 291.</p>
+                     <p>This Chief Juſtice may by the <hi>Stat. 32. H. 8. c.</hi> 35. make his Deputy, (yet all the Writs of Summons, Anti<g ref="char:EOLhyphen"/>ent and Late are <hi>Coram</hi> (the Juſtice <hi>Itinerant) Aut ejus Deputato.</hi> Before any Juſtice-Seat be holden, the Re<g ref="char:EOLhyphen"/>garders of the <hi>Foreſt,</hi> muſt make their Regard by Force of the King's Writ, and the Regard is <hi>Obambulare,</hi> to go through, and view the whole <hi>Foreſt,</hi> and every Bailywick of the ſame, <hi>Ad videndum, inquirendum, imbreviandum &amp; certificandum</hi> all the Treſpaſſes in the <hi>Foreſt.</hi>
+                     </p>
+                     <p>His Office extendeth through the whole <hi>Foreſt,</hi> and e<g ref="char:EOLhyphen"/>very Part thereof, to inquire of all offences concerning Vert and Veniſon, and of all-Concealments of any Offen<g ref="char:EOLhyphen"/>ces or Defaults of the Foreſters, and all other Officers of the King's <hi>Foreſt.</hi> He is a Miniſterial Officer, and is Con<g ref="char:EOLhyphen"/>ſtituted either by Letters-Patents of the King, or by the Chief-Juſtice at the Juſtice-Seat, or to be choſen by Writ to the Sheriff, <hi>id. ibid.</hi>
+                     </p>
+                     <p>Before a Juſtice-Seat, there ought to be preparations for the ſame; to the end, that good Service may be done there,
+<pb n="40" facs="tcp:41607:21"/> 
+                        <hi>Et quod Itinera non ſint umbratilia.</hi> ibid &amp; ſequent.</p>
+                     <p>Note, Before <hi>Scroop,</hi> and other Juſtices in <hi>Eire,</hi> accor<g ref="char:EOLhyphen"/>ding <note place="margin">Kilway. 150. 6. V. 21. H. 7. 22, <hi>&amp;</hi> 30.</note> to the Courſe of the Common-Law, a Man Claimed to be quit of Pawnage of the King's <hi>Foreſt;</hi> And alſo he Claimed in the ſame <hi>Foreſt,</hi> Pawnage of his Tenant <hi>Pour Agiſtes;</hi> And for that this belonged to the Juſtices of the <hi>Foreſt;</hi> they would not meddle with it. And the Reaſon of that, is, the Words of the Chapter, <hi>Praeſententur Capi<g ref="char:EOLhyphen"/>talibus Juſticiariis noſtris de Foreſta, cum in partes illas ve<g ref="char:EOLhyphen"/>nerint, &amp; coram eis terminentur.</hi> So as the Termination and Ending thereof, belongeth to the Chief Juſtices of the <hi>Foreſt,</hi> by the expreſs Words of this Chapter; and where it ſaith, <hi>Coram Capitalibus Juſticiariis noſtris,</hi> &amp;c. It is to be known, That there is but one Chief Juſtice of the <hi>Fo<g ref="char:EOLhyphen"/>reſts</hi> on this ſide <hi>Trent,</hi> and he is named <hi>Juſticiarius iti<g ref="char:EOLhyphen"/>nerans Forestarum,</hi> &amp;c. <hi>citra Trentam.</hi> And there is ano<g ref="char:EOLhyphen"/>ther <hi>Capitalis Juſticiarius,</hi> and he is <hi>Juſticiarius Itinerans omnium Foreſtarum,</hi> &amp;c. <hi>
+                           <g ref="char:V">Ʋ</g>ltra Trentam;</hi> who commonly is a Man of greater Dignity, than Knowledge in the Laws of the <hi>Foreſt.</hi> And therefore, when Juſtice-Seats are to be Holden, there be Aſſociated to him ſuch as the King ſhall appoint, who together with him ſhall determine <hi>Om<g ref="char:EOLhyphen"/>nia placita,</hi> &amp;c. <hi>Foreſtae,</hi> with a Patent of <hi>Si non omnes,</hi> and a Writ <hi>de Admittendo,</hi> &amp;c. And the Chief Juſtice of the <hi>Fo<g ref="char:EOLhyphen"/>reſt,</hi> and theſe Aſſociates, are <hi>Capitales Juſticiarii Foreſtae,</hi> and named <hi>Capitales</hi> in reſpect of the Verderors and o<g ref="char:EOLhyphen"/>thers, that to ſome purpoſes have inferiour Judicial Pla<g ref="char:EOLhyphen"/>ces.</p>
+                  </div>
+               </div>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:41607:21"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
